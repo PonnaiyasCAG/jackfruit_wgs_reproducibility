@@ -151,11 +151,5 @@ Summarizes universal core single-copy orthologues, shared clades, and lineage-sp
 If you use this code or data, please cite:
 
 ```bibtex
-@article{manivannan2026jackfruit,
-  title={Whole Genome Sequencing, Chromosome-Level Assembly, Three-Way Cultivar Comparison, and Comparative Genomics of a Local Jackfruit (Artocarpus heterophyllus Lam.) Cultivar PLJS Reveal Candidate Genes for Agronomic Traits and Moraceae Phylogenomic Architecture},
-  author={[Author Names] and Manivannan, Prof.},
-  journal={[Journal Name]},
-  year={2026},
-  doi={[DOI Placeholder]}
-}
+@article citation details
 ```
