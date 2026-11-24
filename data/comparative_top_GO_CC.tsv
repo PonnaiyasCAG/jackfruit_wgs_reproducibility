@@ -1,0 +1,28 @@
+GO_ID	GO_Name	Indian_PLJS_Genes	Chinese_S10_Genes	BSMRAU_JF1_Genes	Total_Jackfruit_Genes
+GO:0005575	cellular_component	17471	13171	7586	38228
+GO:0044464	obsolete cell part	16998	12811	7372	37181
+GO:0005623	obsolete cell	16998	12811	7372	37181
+GO:0005622	intracellular anatomical structure	14869	11284	6570	32723
+GO:0044424	obsolete intracellular part	14826	11259	6556	32641
+GO:0043226	organelle	13011	9928	5773	28712
+GO:0043229	intracellular organelle	12960	9894	5753	28607
+GO:0043227	membrane-bounded organelle	12525	9635	5612	27772
+GO:0043231	intracellular membrane-bounded organelle	12293	9471	5531	27295
+GO:0005737	cytoplasm	11077	8402	5056	24535
+GO:0044444	obsolete cytoplasmic part	9488	7290	4376	21154
+GO:0016020	membrane	6738	5487	3122	15347
+GO:0044422	obsolete organelle part	6691	5155	2998	14844
+GO:0044446	obsolete intracellular organelle part	6649	5122	2975	14746
+GO:0005634	nucleus	5959	4749	2638	13346
+GO:0071944	cell periphery	4589	4055	2237	10881
+GO:0005886	plasma membrane	3975	3464	1902	9341
+GO:0005829	cytosol	3107	2508	1473	7088
+GO:0032991	protein-containing complex	3307	2330	1396	7033
+GO:0009536	plastid	2789	2215	1340	6344
+GO:0012505	endomembrane system	2766	2258	1309	6333
+GO:0009507	chloroplast	2681	2141	1286	6108
+GO:0044428	obsolete nuclear part	2429	1994	1088	5511
+GO:0043232	intracellular membraneless organelle	2236	1581	891	4708
+GO:0043228	membraneless organelle	2236	1581	891	4708
+GO:0044425	obsolete membrane part	2058	1616	937	4611
+GO:0031974	membrane-enclosed lumen	2113	1554	902	4569

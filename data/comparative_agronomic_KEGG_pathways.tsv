@@ -1,0 +1,28 @@
+Pathway_ID	Pathway_Name	Agronomic_Trait_Domain	Indian_PLJS_Genes	Chinese_S10_Genes	BSMRAU_JF1_Genes	Total_Jackfruit_Genes	PLJS_vs_S10_Diff	PLJS_vs_BSM_Diff
+ko00480	Glutathione metabolism	Antioxidant & Redox Homeostasis	138	82	60	280	56	78
+ko00130	Ubiquinone and other terpenoid-quinone biosynthesis	Antioxidants & Quinones	120	75	53	248	45	67
+ko00592	alpha-Linolenic acid metabolism (Jasmonate & Volatiles)	Aroma & Signaling	90	70	34	194	20	56
+ko00904	Diterpenoid biosynthesis	Aroma & Volatiles	192	202	89	483	-10	103
+ko00900	Terpenoid backbone biosynthesis	Aroma & Volatiles	123	82	49	254	41	74
+ko00280	Valine, leucine and isoleucine degradation (Volatile esters)	Aroma & Volatiles	100	67	44	211	33	56
+ko00071	Fatty acid degradation (Green/Fruity aldehydes)	Aroma & Volatiles	98	68	38	204	30	60
+ko00902	Monoterpenoid biosynthesis	Aroma & Volatiles	63	76	39	178	-13	24
+ko00909	Sesquiterpenoid and triterpenoid biosynthesis	Aroma & Volatiles	44	78	42	164	-34	2
+ko00500	Starch and sucrose metabolism	Carbohydrates & Sweetness	260	185	120	565	75	140
+ko00052	Galactose metabolism	Carbohydrates & Sweetness	88	122	58	268	-34	30
+ko00051	Fructose and mannose metabolism	Carbohydrates & Sweetness	122	73	45	240	49	77
+ko00520	Amino sugar and nucleotide sugar metabolism	Cell Wall Biosynthesis	235	247	111	593	-12	124
+ko00030	Pentose phosphate pathway	Energy & Nucleotide Sugars	105	66	45	216	39	60
+ko00020	Citrate cycle (TCA cycle)	Energy & Organic Acids	95	52	40	187	43	55
+ko00010	Glycolysis / Gluconeogenesis	Energy & Sugar Mobilization	245	155	106	506	90	139
+ko00941	Flavonoid biosynthesis	Flavonoids & Nutraceuticals	97	82	45	224	15	52
+ko00944	Flavone and flavonol biosynthesis	Flavonols & Antioxidants	52	50	25	127	2	27
+ko00040	Pentose and glucuronate interconversions (Pectin/Cell Wall)	Fruit Firmness & Texture	165	187	91	443	-22	74
+ko00906	Carotenoid biosynthesis	Golden Color & Provitamin A	51	41	20	112	10	31
+ko04075	Plant hormone signal transduction	Hormonal Fruit Ripening & Stress	582	483	283	1348	99	299
+ko00943	Isoflavonoid biosynthesis	Isoflavonoids & Defense	38	30	18	86	8	20
+ko04626	Plant-pathogen interaction	Pathogen Immunity & Resistance	391	330	183	904	61	208
+ko00942	Anthocyanin biosynthesis	Pigmentation & Flavonoids	18	15	7	40	3	11
+ko00940	Phenylpropanoid biosynthesis	Polyphenols & Defense	307	259	149	715	48	158
+ko04146	Peroxisome	Reactive Oxygen Species Protection	166	108	67	341	58	99
+ko04016	MAPK signaling pathway - plant	Stress Signaling & Defense	246	208	121	575	38	125

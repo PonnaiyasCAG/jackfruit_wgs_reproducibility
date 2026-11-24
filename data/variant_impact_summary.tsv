@@ -1,0 +1,5 @@
+Impact_Tier	Description	Variant_Count	Pct_Coding
+HIGH	Loss-of-Function (Stop-gained, frameshift, splice-disrupting)	9458	2.8
+MODERATE	Non-synonymous Missense (In-frame change, codon alteration)	142850	42.6
+LOW	Synonymous (Silent coding, splice region neutral)	183210	54.6
+MODIFIER	Non-coding (Intronic, intergenic, UTRs, regulatory)	17436677	N/A (Non-coding)

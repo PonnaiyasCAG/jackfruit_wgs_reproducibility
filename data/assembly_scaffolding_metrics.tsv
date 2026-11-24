@@ -1,0 +1,10 @@
+Metric	Value	Unit
+Total Raw Contigs	66,940	Count
+Total Contig Length	880.18	Mb
+Contig N50	24.8	kb
+Contig L50	10,214	Count
+GC Content	35.2	%
+Anchored Pseudochromosomes (28 Chr)	751.87	Mb (85.4%)
+Unplaced Scaffolds	128.32	Mb (14.6%)
+Inserted Scaffold Gaps (100 bp N)	4.50	Mb (0.5%)
+Total Scaffolded Pseudomolecule Length	884.68	Mb

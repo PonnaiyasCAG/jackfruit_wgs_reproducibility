@@ -1,0 +1,685 @@
+{
+  "chromosomes": {
+    "Chr01": {
+      "id": "CM046327.1_RagTag",
+      "len": 18545946,
+      "name": "Chr 01"
+    },
+    "Chr02": {
+      "id": "CM046328.1_RagTag",
+      "len": 22178273,
+      "name": "Chr 02"
+    },
+    "Chr03": {
+      "id": "CM046329.1_RagTag",
+      "len": 11449810,
+      "name": "Chr 03"
+    },
+    "Chr04": {
+      "id": "CM046330.1_RagTag",
+      "len": 25328623,
+      "name": "Chr 04"
+    },
+    "Chr05": {
+      "id": "CM046331.1_RagTag",
+      "len": 26550778,
+      "name": "Chr 05"
+    },
+    "Chr06": {
+      "id": "CM046332.1_RagTag",
+      "len": 23163840,
+      "name": "Chr 06"
+    },
+    "Chr07": {
+      "id": "CM046333.1_RagTag",
+      "len": 31982194,
+      "name": "Chr 07"
+    },
+    "Chr08": {
+      "id": "CM046334.1_RagTag",
+      "len": 26847282,
+      "name": "Chr 08"
+    },
+    "Chr09": {
+      "id": "CM046335.1_RagTag",
+      "len": 26881641,
+      "name": "Chr 09"
+    },
+    "Chr10": {
+      "id": "CM046336.1_RagTag",
+      "len": 29958882,
+      "name": "Chr 10"
+    },
+    "Chr11": {
+      "id": "CM046337.1_RagTag",
+      "len": 31019739,
+      "name": "Chr 11"
+    },
+    "Chr12": {
+      "id": "CM046338.1_RagTag",
+      "len": 27988161,
+      "name": "Chr 12"
+    },
+    "Chr13": {
+      "id": "CM046339.1_RagTag",
+      "len": 23977049,
+      "name": "Chr 13"
+    },
+    "Chr14": {
+      "id": "CM046340.1_RagTag",
+      "len": 21715164,
+      "name": "Chr 14"
+    },
+    "Chr15": {
+      "id": "CM046341.1_RagTag",
+      "len": 23921781,
+      "name": "Chr 15"
+    },
+    "Chr16": {
+      "id": "CM046342.1_RagTag",
+      "len": 26715447,
+      "name": "Chr 16"
+    },
+    "Chr17": {
+      "id": "CM046343.1_RagTag",
+      "len": 27804821,
+      "name": "Chr 17"
+    },
+    "Chr18": {
+      "id": "CM046344.1_RagTag",
+      "len": 17791321,
+      "name": "Chr 18"
+    },
+    "Chr19": {
+      "id": "CM046345.1_RagTag",
+      "len": 23360036,
+      "name": "Chr 19"
+    },
+    "Chr20": {
+      "id": "CM046346.1_RagTag",
+      "len": 21702040,
+      "name": "Chr 20"
+    },
+    "Chr21": {
+      "id": "CM046347.1_RagTag",
+      "len": 28338396,
+      "name": "Chr 21"
+    },
+    "Chr22": {
+      "id": "CM046348.1_RagTag",
+      "len": 28723771,
+      "name": "Chr 22"
+    },
+    "Chr23": {
+      "id": "CM046349.1_RagTag",
+      "len": 26455785,
+      "name": "Chr 23"
+    },
+    "Chr24": {
+      "id": "CM046350.1_RagTag",
+      "len": 29087157,
+      "name": "Chr 24"
+    },
+    "Chr25": {
+      "id": "CM046351.1_RagTag",
+      "len": 21903773,
+      "name": "Chr 25"
+    },
+    "Chr26": {
+      "id": "CM046352.1_RagTag",
+      "len": 29343990,
+      "name": "Chr 26"
+    },
+    "Chr27": {
+      "id": "CM046353.1_RagTag",
+      "len": 27607171,
+      "name": "Chr 27"
+    },
+    "Chr28": {
+      "id": "CM046354.1_RagTag",
+      "len": 33315640,
+      "name": "Chr 28"
+    }
+  },
+  "candidates": [
+    {
+      "symbol": "PAE9",
+      "name": "Pectinacetylesterase-9",
+      "gene_id": "gene_17147",
+      "prot_id": "g17147.t1",
+      "chrom": "Chr09",
+      "chrom_id": "CM046335.1_RagTag",
+      "start": 26518269,
+      "end": 26524945,
+      "strand": "-",
+      "trait_category": "Fruit Texture & Firmness",
+      "trait_color": "#e41a1c",
+      "homologue_source": "Capsicum annuum (LOC107863277)",
+      "protein_len_aa": 382,
+      "description": "Catalyzes the specific de-acetylation of pectin homogalacturonan in cell walls, modulating syncarp carpel softening, tenderness, and flesh elasticity during fruit ripening.",
+      "breeding_value": "Key selection marker distinguishing firm-fleshed culinary cultivars (meat-substitute) from soft-fleshed dessert cultivars.",
+      "domains": [
+        {
+          "name": "Signal Peptide",
+          "start": 1,
+          "end": 26,
+          "color": "#999999",
+          "desc": "N-terminal secretory signal peptide"
+        },
+        {
+          "name": "Pectinacetylesterase (PF03283)",
+          "start": 38,
+          "end": 348,
+          "color": "#e41a1c",
+          "desc": "Pectin acetylesterase catalytic core with conserved Ser-His-Asp catalytic triad"
+        }
+      ],
+      "mutations": [
+        {
+          "pos_aa": 128,
+          "pos_dna": "c.382dupG",
+          "ref": "G",
+          "alt": "GG",
+          "type": "Frameshift (Exon 3)",
+          "impact": "HIGH",
+          "color": "#e41a1c",
+          "effect": "p.Ala128Glyfs*14 - Loss-of-function truncation of catalytic esterase core"
+        },
+        {
+          "pos_aa": 214,
+          "pos_dna": "c.641C>T",
+          "ref": "C",
+          "alt": "T",
+          "type": "Missense",
+          "impact": "MODERATE",
+          "color": "#377eb8",
+          "effect": "p.Thr214Met - In conserved substrate binding cleft"
+        },
+        {
+          "pos_aa": 298,
+          "pos_dna": "c.893G>A",
+          "ref": "G",
+          "alt": "A",
+          "type": "Missense",
+          "impact": "MODERATE",
+          "color": "#377eb8",
+          "effect": "p.Arg298Gln - Flanking catalytic Asp residue"
+        },
+        {
+          "pos_aa": 76,
+          "pos_dna": "c.228A>G",
+          "ref": "A",
+          "alt": "G",
+          "type": "Synonymous",
+          "impact": "LOW",
+          "color": "#4daf4a",
+          "effect": "p.Leu76Leu - Silent coding mutation"
+        }
+      ]
+    },
+    {
+      "symbol": "FW2.2",
+      "name": "Cell Number Regulator / Fruit Weight 2.2",
+      "gene_id": "gene_21449",
+      "prot_id": "g21449.t1",
+      "chrom": "Chr10",
+      "chrom_id": "CM046336.1_RagTag",
+      "start": 9977950,
+      "end": 9978775,
+      "strand": "+",
+      "trait_category": "Fruit Weight & Size",
+      "trait_color": "#ff7f00",
+      "homologue_source": "Solanum lycopersicum (LOC101245309)",
+      "protein_len_aa": 178,
+      "description": "Negative regulator of carpel cell division in developing ovaries; orthologue of tomato fw2.2 that determines final syncarp biomass and weight (10\u201350 kg in jackfruit).",
+      "breeding_value": "Primary marker for selecting giant syncarp genotypes vs compact, high-density orchard selections.",
+      "domains": [
+        {
+          "name": "CNR / Plac8 Domain (PF04749)",
+          "start": 24,
+          "end": 156,
+          "color": "#ff7f00",
+          "desc": "Conserved cysteine-rich cell number regulator domain controlling mitotic cycle rate"
+        }
+      ],
+      "mutations": [
+        {
+          "pos_aa": 52,
+          "pos_dna": "c.154G>A",
+          "ref": "G",
+          "alt": "A",
+          "type": "Missense",
+          "impact": "MODERATE",
+          "color": "#377eb8",
+          "effect": "p.Val52Met - In Plac8 transmembrane loop 1"
+        },
+        {
+          "pos_aa": 89,
+          "pos_dna": "c.265C>T",
+          "ref": "C",
+          "alt": "T",
+          "type": "Missense",
+          "impact": "MODERATE",
+          "color": "#377eb8",
+          "effect": "p.Pro89Ser - Alters conserved proline hinge, reducing repressive activity"
+        },
+        {
+          "pos_aa": 134,
+          "pos_dna": "c.401A>G",
+          "ref": "A",
+          "alt": "G",
+          "type": "Missense",
+          "impact": "MODERATE",
+          "color": "#377eb8",
+          "effect": "p.Asn134Ser - In C-terminal regulatory tail"
+        },
+        {
+          "pos_aa": 18,
+          "pos_dna": "c.54T>C",
+          "ref": "T",
+          "alt": "C",
+          "type": "Synonymous",
+          "impact": "LOW",
+          "color": "#4daf4a",
+          "effect": "p.Ala18Ala - Silent coding mutation"
+        }
+      ]
+    },
+    {
+      "symbol": "CHS2",
+      "name": "Chalcone Synthase 2",
+      "gene_id": "gene_19014",
+      "prot_id": "g19014.t1",
+      "chrom": "Chr19",
+      "chrom_id": "CM046345.1_RagTag",
+      "start": 7632828,
+      "end": 7634338,
+      "strand": "+",
+      "trait_category": "Flavonoids & Nutrition",
+      "trait_color": "#984ea3",
+      "homologue_source": "Citrus sinensis (LOC102616623)",
+      "protein_len_aa": 395,
+      "description": "Gateway polyketide synthase enzyme catalyzing sequential condensation of 1 p-coumaroyl-CoA with 3 malonyl-CoA to yield naringenin chalcone, precursor of all flavonoids, anthocyanins, and flavanols.",
+      "breeding_value": "Determines yellow pulp carotenoid-flavonoid intensity, antioxidant capacity, and health-promoting polyphenols.",
+      "domains": [
+        {
+          "name": "Chalcone_synt_N (PF00195)",
+          "start": 18,
+          "end": 232,
+          "color": "#984ea3",
+          "desc": "N-terminal dimerization and CoA-binding domain with active site Cys164"
+        },
+        {
+          "name": "Chalcone_synt_C (PF02797)",
+          "start": 242,
+          "end": 386,
+          "color": "#b15928",
+          "desc": "C-terminal cyclization domain with catalytic His303 and Asn336 residues"
+        }
+      ],
+      "mutations": [
+        {
+          "pos_aa": 165,
+          "pos_dna": "c.493delC",
+          "ref": "C",
+          "alt": "-",
+          "type": "Frameshift (Exon 2)",
+          "impact": "HIGH",
+          "color": "#e41a1c",
+          "effect": "p.Gln165Argfs*22 - Direct disruption immediately adjacent to catalytic Cys164"
+        },
+        {
+          "pos_aa": 284,
+          "pos_dna": "c.851G>A",
+          "ref": "G",
+          "alt": "A",
+          "type": "Missense",
+          "impact": "MODERATE",
+          "color": "#377eb8",
+          "effect": "p.Gly284Asp - In cyclization pocket entrance"
+        },
+        {
+          "pos_aa": 340,
+          "pos_dna": "c.1018C>T",
+          "ref": "C",
+          "alt": "T",
+          "type": "Missense",
+          "impact": "MODERATE",
+          "color": "#377eb8",
+          "effect": "p.Leu340Phe - Flanking catalytic Asn336"
+        },
+        {
+          "pos_aa": 95,
+          "pos_dna": "c.285T>C",
+          "ref": "T",
+          "alt": "C",
+          "type": "Synonymous",
+          "impact": "LOW",
+          "color": "#4daf4a",
+          "effect": "p.Gly95Gly - Synonymous variant"
+        }
+      ]
+    },
+    {
+      "symbol": "TSS",
+      "name": "Vacuolar Invertase (Total Soluble Solids)",
+      "gene_id": "gene_28308",
+      "prot_id": "g28308.t1",
+      "chrom": "Chr21",
+      "chrom_id": "CM046347.1_RagTag",
+      "start": 20201659,
+      "end": 20219307,
+      "strand": "-",
+      "trait_category": "Sweetness & Sugar Loading",
+      "trait_color": "#377eb8",
+      "homologue_source": "Vigna unguiculata (LOC114162307)",
+      "protein_len_aa": 576,
+      "description": "Beta-fructofuranosidase catalyzing hydrolytic cleavage of translocated sucrose into glucose and fructose in sink aril vacuoles, directly setting TSS (\u00b0Brix, 24\u201330 \u00b0Brix in premium cultivars).",
+      "breeding_value": "High-priority marker for sweetness index, aril sugar accumulation, and taste acceptability.",
+      "domains": [
+        {
+          "name": "Signal Peptide",
+          "start": 1,
+          "end": 28,
+          "color": "#999999",
+          "desc": "Vacuolar targeting transit peptide"
+        },
+        {
+          "name": "Glyco_hydro_32N (PF00251)",
+          "start": 48,
+          "end": 412,
+          "color": "#377eb8",
+          "desc": "5-bladed beta-propeller catalytic domain with conserved Asp23 active site"
+        },
+        {
+          "name": "Glyco_hydro_32C (PF08244)",
+          "start": 425,
+          "end": 562,
+          "color": "#4daf4a",
+          "desc": "Beta-sandwich C-terminal domain stabilizing vacuolar quaternary structure"
+        }
+      ],
+      "mutations": [
+        {
+          "pos_aa": 178,
+          "pos_dna": "c.533C>T",
+          "ref": "C",
+          "alt": "T",
+          "type": "Missense",
+          "impact": "MODERATE",
+          "color": "#377eb8",
+          "effect": "p.Ala178Val - In sucrose substrate recognition cleft"
+        },
+        {
+          "pos_aa": 312,
+          "pos_dna": "c.935G>A",
+          "ref": "G",
+          "alt": "A",
+          "type": "Missense",
+          "impact": "MODERATE",
+          "color": "#377eb8",
+          "effect": "p.Arg312Lys - Electrostatic shift near catalytic pocket"
+        },
+        {
+          "pos_aa": 485,
+          "pos_dna": "c.1454T>C",
+          "ref": "T",
+          "alt": "C",
+          "type": "Missense",
+          "impact": "MODERATE",
+          "color": "#377eb8",
+          "effect": "p.Ile485Thr - In C-terminal beta-sandwich stability region"
+        },
+        {
+          "pos_aa": 240,
+          "pos_dna": "c.720G>A",
+          "ref": "G",
+          "alt": "A",
+          "type": "Synonymous",
+          "impact": "LOW",
+          "color": "#4daf4a",
+          "effect": "p.Gln240Gln - Synonymous coding variant"
+        }
+      ]
+    },
+    {
+      "symbol": "CCD4b",
+      "name": "Carotenoid Cleavage Dioxygenase 4b (Aroma Volatiles)",
+      "gene_id": "gene_16659",
+      "prot_id": "g16659.t1",
+      "chrom": "Chr16",
+      "chrom_id": "CM046342.1_RagTag",
+      "start": 13801153,
+      "end": 13803042,
+      "strand": "+",
+      "trait_category": "Aroma & Volatile Bouquet",
+      "trait_color": "#4daf4a",
+      "homologue_source": "Vitis vinifera (LOC100252859)",
+      "protein_len_aa": 594,
+      "description": "Cleaves carotenoids at 9,10 and 9',10' double bonds into volatile C13 apocarotenoids (beta-ionone, damascenone) and modulates volatile ester precursor pathways shaping characteristic sweet jackfruit aroma.",
+      "breeding_value": "Marker for pleasant fruity/banana aroma profile vs musky or low-fragrance cultivars.",
+      "domains": [
+        {
+          "name": "RPE65 / Carotenoid Dioxygenase (PF03055)",
+          "start": 42,
+          "end": 570,
+          "color": "#4daf4a",
+          "desc": "7-bladed beta-propeller enclosing 4 conserved histidine residues coordinating Fe2+"
+        }
+      ],
+      "mutations": [
+        {
+          "pos_aa": 218,
+          "pos_dna": "c.652A>G",
+          "ref": "A",
+          "alt": "G",
+          "type": "Missense",
+          "impact": "MODERATE",
+          "color": "#377eb8",
+          "effect": "p.Met218Val - Proximal to catalytic His235 iron-binding site"
+        },
+        {
+          "pos_aa": 384,
+          "pos_dna": "c.1150C>T",
+          "ref": "C",
+          "alt": "T",
+          "type": "Missense",
+          "impact": "MODERATE",
+          "color": "#377eb8",
+          "effect": "p.Pro384Ser - Modifies carotenoid entry tunnel flexibility"
+        },
+        {
+          "pos_aa": 512,
+          "pos_dna": "c.1534G>A",
+          "ref": "G",
+          "alt": "A",
+          "type": "Missense",
+          "impact": "MODERATE",
+          "color": "#377eb8",
+          "effect": "p.Glu512Lys - Charge reversal in outer propeller blade"
+        },
+        {
+          "pos_aa": 115,
+          "pos_dna": "c.345C>T",
+          "ref": "C",
+          "alt": "T",
+          "type": "Synonymous",
+          "impact": "LOW",
+          "color": "#4daf4a",
+          "effect": "p.Tyr115Tyr - Synonymous mutation"
+        }
+      ]
+    },
+    {
+      "symbol": "FUS3_VP1",
+      "name": "B3 Domain Transcription Factor FUS3 / VP1",
+      "gene_id": "gene_29866",
+      "prot_id": "g29866.t2",
+      "chrom": "Chr22",
+      "chrom_id": "CM046348.1_RagTag",
+      "start": 486692,
+      "end": 489567,
+      "strand": "-",
+      "trait_category": "Flowering & Seed Phenology",
+      "trait_color": "#f781bf",
+      "homologue_source": "Citrus sinensis (LOC102617915) & Daucus carota (LOC108204452)",
+      "protein_len_aa": 312,
+      "description": "Master B3-domain transcription factor governing seed maturation, preventing premature viviparous seed germination inside arils, and coordinating floral transition with seasonal monsoon triggers.",
+      "breeding_value": "Critical for breeding cultivars with suppressed seed vivipary during extended tree storage.",
+      "domains": [
+        {
+          "name": "B3 DNA-Binding Domain (PF02362)",
+          "start": 98,
+          "end": 218,
+          "color": "#f781bf",
+          "desc": "7-stranded beta-barrel domain binding specifically to Sph/RY cis-elements (CATGCA)"
+        }
+      ],
+      "mutations": [
+        {
+          "pos_aa": 142,
+          "pos_dna": "c.424A>G",
+          "ref": "A",
+          "alt": "G",
+          "type": "Missense",
+          "impact": "MODERATE",
+          "color": "#377eb8",
+          "effect": "p.Lys142Glu - Charge alteration in DNA major groove recognition loop"
+        },
+        {
+          "pos_aa": 185,
+          "pos_dna": "c.553C>T",
+          "ref": "C",
+          "alt": "T",
+          "type": "Missense",
+          "impact": "MODERATE",
+          "color": "#377eb8",
+          "effect": "p.Arg185Trp - In conserved B3 beta-strand 5"
+        },
+        {
+          "pos_aa": 45,
+          "pos_dna": "c.135G>A",
+          "ref": "G",
+          "alt": "A",
+          "type": "Synonymous",
+          "impact": "LOW",
+          "color": "#4daf4a",
+          "effect": "p.Thr45Thr - Synonymous variant"
+        }
+      ]
+    },
+    {
+      "symbol": "HAK1",
+      "name": "High-Affinity K+ Transporter 1 (Potassium Uptake)",
+      "gene_id": "gene_19820",
+      "prot_id": "g19820.t1",
+      "chrom": "Chr12",
+      "chrom_id": "CM046338.1_RagTag",
+      "start": 9342370,
+      "end": 9346067,
+      "strand": "+",
+      "trait_category": "Mineral Nutrition (K+)",
+      "trait_color": "#a65628",
+      "homologue_source": "Musa acuminata (LOC103984173)",
+      "protein_len_aa": 785,
+      "description": "High-affinity K+/H+ symporter responsible for massive potassium accumulation in developing syncarps (jackfruit is exceptionally high in dietary potassium, ~448 mg/100g).",
+      "breeding_value": "Selection for nutrient-dense functional fruit and drought/salinity osmotolerance.",
+      "domains": [
+        {
+          "name": "K_trans Domain (PF02705)",
+          "start": 35,
+          "end": 745,
+          "color": "#a65628",
+          "desc": "12-transmembrane helix transporter with selectivity filter motif G-D-G-X-F"
+        }
+      ],
+      "mutations": [
+        {
+          "pos_aa": 268,
+          "pos_dna": "c.803G>A",
+          "ref": "G",
+          "alt": "A",
+          "type": "Missense",
+          "impact": "MODERATE",
+          "color": "#377eb8",
+          "effect": "p.Gly268Ser - In TM5 helix near potassium pore filter"
+        },
+        {
+          "pos_aa": 514,
+          "pos_dna": "c.1541T>C",
+          "ref": "T",
+          "alt": "C",
+          "type": "Missense",
+          "impact": "MODERATE",
+          "color": "#377eb8",
+          "effect": "p.Leu514Pro - Helix-breaking proline substitution in TM9"
+        },
+        {
+          "pos_aa": 680,
+          "pos_dna": "c.2038A>G",
+          "ref": "A",
+          "alt": "G",
+          "type": "Missense",
+          "impact": "MODERATE",
+          "color": "#377eb8",
+          "effect": "p.Met680Val - In cytosolic C-terminal phosphorylation loop"
+        }
+      ]
+    },
+    {
+      "symbol": "VAR3",
+      "name": "Zinc Finger Protein VAR3 (Chloroplast & Pigmentation)",
+      "gene_id": "gene_7742",
+      "prot_id": "g7742.t1",
+      "chrom": "Chr17",
+      "chrom_id": "CM046343.1_RagTag",
+      "start": 17458030,
+      "end": 17461619,
+      "strand": "-",
+      "trait_category": "Chloroplast & Pigmentation",
+      "trait_color": "#66c2a5",
+      "homologue_source": "Citrus sinensis (LOC102612795)",
+      "protein_len_aa": 612,
+      "description": "Zinc finger protein required for chloroplast differentiation, thylakoid membrane biogenesis, and chlorophyll-carotenoid-flavonoid pigment transitions during fruit peel and aril maturation.",
+      "breeding_value": "Breeding for vibrant deep-golden vs pale yellow aril color variants.",
+      "domains": [
+        {
+          "name": "zf-C2H2 Zinc Finger (PF00096)",
+          "start": 85,
+          "end": 115,
+          "color": "#66c2a5",
+          "desc": "C2H2 zinc finger DNA/RNA binding motif"
+        },
+        {
+          "name": "DUF3411 Domain (PF11890)",
+          "start": 210,
+          "end": 580,
+          "color": "#fc8d62",
+          "desc": "Conserved plastid protein domain mediating thylakoid structural integrity"
+        }
+      ],
+      "mutations": [
+        {
+          "pos_aa": 98,
+          "pos_dna": "c.293T>C",
+          "ref": "T",
+          "alt": "C",
+          "type": "Missense",
+          "impact": "MODERATE",
+          "color": "#377eb8",
+          "effect": "p.Cys98Arg - Direct substitution of zinc-coordinating cysteine residue in ZF motif"
+        },
+        {
+          "pos_aa": 345,
+          "pos_dna": "c.1033G>A",
+          "ref": "G",
+          "alt": "A",
+          "type": "Missense",
+          "impact": "MODERATE",
+          "color": "#377eb8",
+          "effect": "p.Val345Ile - Conservative hydrophobic substitution in DUF3411 core"
+        }
+      ]
+    }
+  ]
+}

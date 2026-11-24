@@ -1,0 +1,55 @@
+Pathway_ID	Pathway_Name	Level1_Category	Level2_Subsystem	Indian_PLJS_Genes	Chinese_S10_Genes	BSMRAU_JF1_Genes	Total_Jackfruit_Genes
+ko01100	Metabolic pathways	Metabolism	Metabolic pathways	4318	2971	1813	9102
+ko01110	Biosynthesis of secondary metabolites	Metabolism	Metabolic pathways	2563	1899	1125	5587
+ko01120	Microbial metabolism in diverse environments	Metabolism	Metabolic pathways	846	561	363	1770
+ko01130	Pathway_ko01130	Metabolism	Metabolic pathways	835	516	372	1723
+ko05169	Epstein-Barr virus infection	Metabolism	Metabolic pathways	607	488	262	1357
+ko04075	Plant hormone signal transduction	09130 Environmental Information Processing	09132 Signal transduction	582	483	283	1348
+ko05171	Coronavirus disease	Metabolism	Metabolic pathways	675	441	228	1344
+ko05417	Lipid and atherosclerosis	Metabolism	Metabolic pathways	565	507	267	1339
+ko05132	Salmonella infection	Metabolism	Metabolic pathways	590	475	246	1311
+ko05022	Pathways of neurodegeneration - multiple diseases	Metabolism	Metabolic pathways	617	416	270	1303
+ko05014	Amyotrophic lateral sclerosis	Metabolism	Metabolic pathways	590	392	264	1246
+ko05010	Alzheimer disease	Metabolism	Metabolic pathways	546	382	258	1186
+ko05168	Herpes simplex virus 1 infection	Metabolism	Metabolic pathways	495	404	227	1126
+ko05130	Pathogenic Escherichia coli infection	Metabolism	Metabolic pathways	492	408	200	1100
+ko05152	Tuberculosis	Metabolism	Metabolic pathways	483	392	203	1078
+ko05170	Human immunodeficiency virus 1 infection	Metabolism	Metabolic pathways	464	381	198	1043
+ko03010	Ribosome	09120 Genetic Information Processing	09122 Translation	574	290	177	1041
+ko05012	Parkinson disease	Metabolism	Metabolic pathways	477	342	220	1039
+ko04936	Alcoholic liver disease	Metabolism	Metabolic pathways	439	372	190	1001
+ko01240	Biosynthesis of cofactors	Metabolism	Metabolic pathways	489	289	206	984
+ko05016	Huntington disease	Metabolism	Metabolic pathways	452	310	204	966
+ko01200	Carbon metabolism	Metabolism	Metabolic pathways	465	283	188	936
+ko04141	Protein processing in endoplasmic reticulum	09120 Genetic Information Processing	09123 Folding, sorting and degradation	416	305	203	924
+ko04010	MAPK signaling pathway	09130 Environmental Information Processing	09132 Signal transduction	395	351	178	924
+ko04722	Neurotrophin signaling pathway	Metabolism	Metabolic pathways	398	350	172	920
+ko04626	Plant-pathogen interaction	09150 Organismal Systems	09159 Environmental adaptation	391	330	183	904
+ko01230	Biosynthesis of amino acids	Metabolism	Metabolic pathways	427	256	187	870
+ko05135	Yersinia infection	Metabolism	Metabolic pathways	368	330	159	857
+ko05161	Hepatitis B	Metabolism	Metabolic pathways	367	316	166	849
+ko03013	Nucleocytoplasmic transport	09120 Genetic Information Processing	09122 Translation	366	305	177	848
+ko05145	Toxoplasmosis	Metabolism	Metabolic pathways	357	327	164	848
+ko05162	Measles	Metabolism	Metabolic pathways	367	322	154	843
+ko05164	Influenza A	Metabolism	Metabolic pathways	358	311	156	825
+ko03040	Spliceosome	09120 Genetic Information Processing	09121 Transcription	393	255	165	813
+ko05020	Prion disease	Metabolism	Metabolic pathways	392	241	173	806
+ko04142	Lysosome	09140 Cellular Processes	09141 Transport and catabolism	387	250	151	788
+ko05142	Chagas disease	Metabolism	Metabolic pathways	331	303	152	786
+ko05133	Pertussis	Metabolism	Metabolic pathways	340	302	140	782
+ko04621	NOD-like receptor signaling pathway	Metabolism	Metabolic pathways	354	282	143	779
+ko04620	Toll-like receptor signaling pathway	Metabolism	Metabolic pathways	325	293	140	758
+ko04624	Toll and Imd signaling pathway	Metabolism	Metabolic pathways	326	287	137	750
+ko05208	Chemical carcinogenesis - reactive oxygen species	Metabolism	Metabolic pathways	344	237	164	745
+ko05140	Leishmaniasis	Metabolism	Metabolic pathways	315	286	138	739
+ko04064	NF-kappa B signaling pathway	09130 Environmental Information Processing	09132 Signal transduction	315	282	137	734
+ko04140	Autophagy - animal	09140 Cellular Processes	09141 Transport and catabolism	314	255	158	727
+ko00940	Phenylpropanoid biosynthesis	09100 Metabolism	09110 Biosynthesis of other secondary metabolites	307	259	149	715
+ko04144	Endocytosis	09140 Cellular Processes	09141 Transport and catabolism	321	211	147	679
+ko04714	Thermogenesis	Metabolism	Metabolic pathways	301	197	131	629
+ko04120	Ubiquitin mediated proteolysis	09120 Genetic Information Processing	09123 Folding, sorting and degradation	296	210	112	618
+ko00230	Purine metabolism	09100 Metabolism	09104 Nucleotide metabolism	300	187	125	612
+ko05166	Human T-cell leukemia virus 1 infection	Metabolism	Metabolic pathways	245	249	117	611
+ko05200	Pathways in cancer	Metabolism	Metabolic pathways	277	196	131	604
+ko04110	Cell cycle	09140 Cellular Processes	09143 Cell growth and death	278	193	127	598
+ko00520	Amino sugar and nucleotide sugar metabolism	09100 Metabolism	09101 Carbohydrate metabolism	235	247	111	593

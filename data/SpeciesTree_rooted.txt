@@ -1,0 +1,1 @@
+((Ficus_carica:0.118143,Morus_alba:0.0810606)1:0.0437553,(Artocarpus_heterophyllus_PLJS:0.000614492,(Artocarpus_heterophyllus_S10:0.0288573,Artocarpus_heterophyllus_BSMRAU:0.0115122)1:0.018218)1:0.0437553);

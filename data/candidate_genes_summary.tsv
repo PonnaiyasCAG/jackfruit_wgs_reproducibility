@@ -1,0 +1,9 @@
+Symbol	Name	Chromosome	Start_bp	End_bp	Trait_Category	Protein_Length_aa	Num_Domains	Num_Mutations
+PAE9	Pectinacetylesterase-9	Chr09	26518269	26524945	Fruit Texture & Firmness	382	2	4
+FW2.2	Cell Number Regulator / Fruit Weight 2.2	Chr10	9977950	9978775	Fruit Weight & Size	178	1	4
+CHS2	Chalcone Synthase 2	Chr19	7632828	7634338	Flavonoids & Nutrition	395	2	4
+TSS	Vacuolar Invertase (Total Soluble Solids)	Chr21	20201659	20219307	Sweetness & Sugar Loading	576	3	4
+CCD4b	Carotenoid Cleavage Dioxygenase 4b (Aroma Volatiles)	Chr16	13801153	13803042	Aroma & Volatile Bouquet	594	1	4
+FUS3_VP1	B3 Domain Transcription Factor FUS3 / VP1	Chr22	486692	489567	Flowering & Seed Phenology	312	1	3
+HAK1	High-Affinity K+ Transporter 1 (Potassium Uptake)	Chr12	9342370	9346067	Mineral Nutrition (K+)	785	1	3
+VAR3	Zinc Finger Protein VAR3 (Chloroplast & Pigmentation)	Chr17	17458030	17461619	Chloroplast & Pigmentation	612	2	2

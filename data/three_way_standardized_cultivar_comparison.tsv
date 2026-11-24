@@ -1,0 +1,17 @@
+Genomic Feature	Chinese S10 (Reference)	Indian PLJS (Target Landrace)	Bangladesh BSMRAU-JF-1
+Geographic Origin	China	Tamil Nadu, South India	Bangladesh
+NCBI Assembly Accession	GCA_025403435.1 (ASM2540343v1)	Pending NCBI Submission	GCA_020010975.1
+Cytogenetic Status	Paleotetraploid (2n = 4x = 56, n = 28)	Paleotetraploid (2n = 4x = 56, n = 28)	Paleotetraploid (2n = 4x = 56, n = 28)
+Assembly Level	Chromosome-level (Native Physical)	Chromosome-scale (RagTag Pseudochromosomes)	Chromosome-scale (RagTag Pseudochromosomes)
+Total Assembly Footprint (Mb)	985.63 Mb	880.18 Mb (Contigs) / 884.68 Mb (Scaffolds)	839.22 Mb (Scaffolds) / 847.89 Mb (Scaffolds)
+Chromosome Organization	28 physical chromosomes (Chr01–Chr28)	28 pseudochromosomes (Chr01–Chr28)	28 pseudochromosomes (Chr01–Chr28)
+Contig / Scaffold Count	28 chromosomes + 454 unplaced	66,940 contigs → 21,971 scaffolds	218,466 scaffolds → 169,367 scaffolds
+Contig N50	1.03 Mb	24.8 kb	75.0 kb
+GC Content (%)	34.50%	34.43%	34.38%
+RagTag Scaffolding Placement on S10	100.0% (Native Reference)	85.4% placed onto 28 chromosomes	88.7% placed onto 28 chromosomes
+Anchored Span (Mb)	985.63 Mb	751.87 Mb (45,200 contigs anchored)	744.17 Mb (49,127 scaffolds anchored)
+Unplaced Span (Mb)	0.00 Mb	128.32 Mb (21,740 unplaced contigs)	98.83 Mb (169,339 unplaced scaffolds)
+Number of Scaffolding Gaps	0 gaps (Chromosome-level contiguity)	44,969 gaps (4.50 Mb total gap span)	48,865 gaps (4.89 Mb total gap span)
+Role in Unified Analysis	Primary Physical Reference Baseline	Target Indian Landrace Query	Comparative South Asian Query
+Variant Calling Coordinate System	Chr01 – Chr28 (Global Physical Coordinates)	Chr01 – Chr28 (S10 Chromosome Space)	Chr01 – Chr28 (S10 Chromosome Space)
+Whole-Genome Variants vs S10 (28 Chr)	0 (Reference Baseline)	17,772,195 (15.86M SNPs, 1.91M Indels)	843,150 (696.3k SNPs, 146.9k Indels)

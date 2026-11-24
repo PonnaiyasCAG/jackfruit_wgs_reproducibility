@@ -1,0 +1,29 @@
+GO_ID	GO_Name	Indian_PLJS_Genes	Chinese_S10_Genes	BSMRAU_JF1_Genes	Total_Jackfruit_Genes
+GO:0008150	biological_process	17355	13333	7539	38227
+GO:0009987	cellular process	13041	10217	5797	29055
+GO:0008152	metabolic process	10301	8060	4640	23001
+GO:0071704	obsolete organic substance metabolic process	9276	7330	4177	20783
+GO:0044237	obsolete cellular metabolic process	9233	7262	4159	20654
+GO:0044238	primary metabolic process	8459	6634	3809	18902
+GO:0065007	biological regulation	8118	6511	3695	18324
+GO:0050896	response to stimulus	7662	6500	3620	17782
+GO:0006807	obsolete nitrogen compound metabolic process	7547	5786	3313	16646
+GO:0050789	regulation of biological process	7183	5673	3265	16121
+GO:0043170	macromolecule metabolic process	6732	5270	2961	14963
+GO:0050794	regulation of cellular process	6379	5009	2848	14236
+GO:1901564	obsolete organonitrogen compound metabolic process	5341	4193	2407	11941
+GO:0044260	obsolete cellular macromolecule metabolic process	5146	4057	2280	11483
+GO:0006950	response to stress	4350	3794	2161	10305
+GO:0032502	developmental process	4305	3822	2088	10215
+GO:0042221	response to chemical	4165	3704	2079	9948
+GO:0048856	anatomical structure development	4013	3622	2016	9651
+GO:0019222	regulation of metabolic process	4262	3356	1870	9488
+GO:0019538	protein metabolic process	4162	3329	1880	9371
+GO:0032501	multicellular organismal process	3774	3441	1918	9133
+GO:0071840	cellular component organization or biogenesis	4007	3278	1840	9125
+GO:1901360	obsolete organic cyclic compound metabolic process	3987	3192	1803	8982
+GO:0034641	obsolete cellular nitrogen compound metabolic process	4024	3132	1762	8918
+GO:0006725	obsolete cellular aromatic compound metabolic process	3845	3086	1763	8694
+GO:0060255	regulation of macromolecule metabolic process	3909	3003	1664	8576
+GO:0009058	biosynthetic process	3616	3073	1772	8461
+GO:0007275	multicellular organism development	3402	3128	1741	8271

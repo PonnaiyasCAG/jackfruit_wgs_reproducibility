@@ -1,0 +1,27 @@
+GO_ID	GO_Name	Indian_PLJS_Genes	Chinese_S10_Genes	BSMRAU_JF1_Genes	Total_Jackfruit_Genes
+GO:0003674	molecular_function	15178	11769	6676	33623
+GO:0003824	catalytic activity	8796	7067	3984	19847
+GO:0005488	binding	7275	5801	3340	16416
+GO:0097159	obsolete organic cyclic compound binding	4031	3394	1873	9298
+GO:1901363	heterocyclic compound binding	4009	3375	1864	9248
+GO:0016740	transferase activity	3957	3250	1854	9061
+GO:0003676	nucleic acid binding	3316	2794	1498	7608
+GO:0016787	hydrolase activity	3257	2762	1499	7518
+GO:0140096	catalytic activity, acting on a protein	2962	2439	1357	6758
+GO:0005515	protein binding	2940	2327	1354	6621
+GO:0016772	transferase activity, transferring phosphorus-containing groups	1916	1617	902	4435
+GO:0140110	transcription regulator activity	2014	1577	822	4413
+GO:0003723	RNA binding	1826	1677	904	4407
+GO:0003700	DNA-binding transcription factor activity	1865	1468	771	4104
+GO:0016788	hydrolase activity, acting on ester bonds	1570	1407	784	3761
+GO:0003677	DNA binding	1609	1204	646	3459
+GO:0043167	ion binding	1447	1167	747	3361
+GO:0016301	kinase activity	1428	1101	621	3150
+GO:0016491	oxidoreductase activity	1369	1111	632	3112
+GO:0016773	phosphotransferase activity, alcohol group as acceptor	1364	1063	599	3026
+GO:0005215	transporter activity	1339	1082	570	2991
+GO:0004672	protein kinase activity	1201	958	535	2694
+GO:0022857	transmembrane transporter activity	1151	951	489	2591
+GO:0004518	nuclease activity	954	953	495	2402
+GO:0004674	protein serine/threonine kinase activity	1062	858	475	2395
+GO:0043565	sequence-specific DNA binding	972	777	413	2162
